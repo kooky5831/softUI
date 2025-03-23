@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Set start and end date
-START_DATE="2021-11-2"  # YYYY-MM-DD
-END_DATE="2021-11-15"    # YYYY-MM-DD
+START_DATE="2021-05-2"  # YYYY-MM-DD
+END_DATE="2021-05-15"    # YYYY-MM-DD
 
 # Min and max commits per selected day
-MIN_COMMITS=3
-MAX_COMMITS=7
+MIN_COMMITS=17
+MAX_COMMITS=18
 
 # Min and max days per month to commit
-MIN_DAYS_PER_MONTH=6    
-MAX_DAYS_PER_MONTH=12
+MIN_DAYS_PER_MONTH=1    
+MAX_DAYS_PER_MONTH=2
 
 # Set author and committer name and email
 AUTHOR_NAME="kooky"
